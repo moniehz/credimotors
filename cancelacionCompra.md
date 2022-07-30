@@ -10,6 +10,7 @@
     Las compras pueden generar las siguientes CXPs:
       - Por costo de compra
       - Por comisión
+    Estás CXPs se puedes visualizar en el menú [Salidas | Compra de vehículos]
       
 ####
    
