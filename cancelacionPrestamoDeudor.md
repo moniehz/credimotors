@@ -5,7 +5,7 @@
 - Tesorería
 
 #### Menú autorizados
-- Salidas | Préstamos a dedudores
+- Salidas | Préstamos a deudores
 
 #### ¿Qué hace la cancelación de préstamo?    
     1.- Se identifica la CXC del deudor corresponiente en el menú [Entradas | Crédito otros]
