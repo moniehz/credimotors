@@ -9,10 +9,10 @@
 
 #### ¿Qué hace la cancelación de venta?    
     Las ventas pueden tener el siguiente origen:
-      - Contado
-      - Crédito directo
-      - Crédito bancario
-      - Crédito directo y crédito bancario
+      - Venta de contado
+      - Venta a crédito directo
+      - Venta a crédito bancario
+      - Venta a crédito directo y crédito bancario
       
      Para cualquier origen, el proceso de cancelación es el mismo.
 
@@ -25,3 +25,6 @@
       3.- Se actualiza el estatus del vehículo a CANCELADO.
       4.- Se actualiza el estatus de la solicitud de venta a CANCELADO.
       5.- Se actualiza el estatus de la venta a CANCELADO.
+
+
+###### CXCs: Cuentas por cobrar
