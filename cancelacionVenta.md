@@ -8,13 +8,13 @@
 - Ventas
 
 #### ¿Qué hace la cancelación de venta?    
-    Las ventas pueden tener el siguiente origen:
+    Las ventas pueden generar CXCs con el siguiente origen:
       - Venta de contado
       - Venta a crédito directo
       - Venta a crédito bancario
       - Venta a crédito directo y crédito bancario
       
-     Para cualquier origen, el proceso de cancelación es el mismo.
+     Para cualquier origen, el proceso de cancelación es el mismo. Estás CXCs se pueden visualizar en el menú [Entradas].
 
 ####
 
