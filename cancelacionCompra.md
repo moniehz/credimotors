@@ -14,12 +14,14 @@
       
 ####
    
-    Si la compra no se ha autorizado:
+    Si la compra aún no se ha autorizado:
+    
       1.- Se actualiza el estatus de la solicitud de compra a CANCELADO.
 
 ####
 
     Si la compra se ha autorizado:
+    
       1.- Por cada CXP se identifica si existen pagos registrados a la compra.
           - Por cada pago, se realiza el ingreso de dinero a la cuenta de banco correspondiente.
           - Se actualiza el estatus de los pagos a CANCELADO.
