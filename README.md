@@ -1,4 +1,4 @@
-# PROCESOS DEL SISTEMA CREDIMOTORS SCRIPTCASE
+# SISTEMA CREDIMOTORS SCRIPTCASE
 <br>Este repositoro sirve de guía para los procesos que se llevan a cabo en el sistema de CM.
 <br><br>
 
@@ -10,7 +10,8 @@
 |[Cancelación de venta](cancelacionVenta.md)| 
 |[Cancelación de préstamo a deudor](cancelacionPrestamoDeudor.md)|
 |[Cancelación de acreeedor](cancelacionAcreedor.md)|
-|[Cancelación de cobro por enganche de venta](cancelacionCobroEnganche.md)|
+|[Cancelación de cobro por enganche de venta](cancelacionEnganche.md)|
+|[Cancelación de pago por compra de vehiculo](cancelacionPagoCompra.md)|
 
 &nbsp;
 
