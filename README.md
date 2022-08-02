@@ -19,8 +19,14 @@
 |-----------|
 |[Solicitar autorización de compra](autorizacionCompra.md)| 
 |[Solicitar autorización de venta](autorizacionVenta.md)| 
-|[Ajuste por compra de vehículo](ajusteCompraVehiculo.md)|
-|[Ajuste por comisión](ajusteComision.md)|
-|[Ajuste por nómina](ajusteNomina.md)|
+|[Registrar costos añadidos a vehículo](registrarCostoAñadido.md)|
+|[Registrar gastos de sucursal](registrarGastoSucursal.md)|
+|[Registrar un acreedor](registrarAcreedor.md)|
+|[Registrar un ajuste por compra de vehículo](registrarAjusteCompraVehiculo.md)|
+|[Registrar un ajuste por comisión](registrarAjusteComision.md)|
+|[Registrar un ajuste por nómina](registrarAjusteNomina.md)|
+|[Registrar depreciacion de carrro Ut](registrarDepreciacionCarroUt.md)|
+|[Registrar movimientos de capital S1/S2](registrarMovimientoCapital.md)|
+|[Registrar una transferencia bancaria](registrarTransferenciaBancaria.md)|
 
 &nbsp;
