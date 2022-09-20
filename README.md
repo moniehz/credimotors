@@ -4,7 +4,13 @@
 
 ## Contenido
 
-|CANCELACIONES|
+|AUDITORIA|
+|-----------|
+|[Lista de pendientes](pendientes.md)| 
+
+&nbsp;
+
+|PROCESOS DE CANCELACIONES|
 |-----------|
 |[Cancelación de compra](cancelacionCompra.md)| 
 |[Cancelación de venta](cancelacionVenta.md)| 
@@ -15,7 +21,7 @@
 
 &nbsp;
 
-|PROCESOS|
+|PROCESOS EN GENERAL|
 |-----------|
 |[Solicitar autorización de compra](autorizacionCompra.md)| 
 |[Solicitar autorización de venta](autorizacionVenta.md)| 
