@@ -6,7 +6,7 @@
 
 |AUDITORIA|
 |-----------|
-|[Lista de pendientes](pendientes.md)| 
+|[Lista de pendientes para ambiente de producción](pendientes.md)| 
 
 &nbsp;
 
